@@ -50,12 +50,12 @@ API_URL.GEOFENCE_DELETE = API_DOMIAN1 + "Device/FenceDelete";
 API_URL.URL_ROUTE = "https://www.google.com/maps/dir/?api=1&destination={0},{1}";
 API_URL.URL_ROUTE_IOS = "maps://maps.apple.com/maps?daddr={0},{1}";
 //API_URL.URL_SUPPORT = "https://support.tracktech.quiktrak.eu/";
-API_URL.URL_SUPPORT = "https://support.nutechgps.com/";
+API_URL.URL_SUPPORT = "https://support.quiktrak.eu/";
 API_URL.URL_REPORT_THEFT = "https://forms.quiktrak.com.au/report-theft/";
-API_URL.URL_UPGRADE = "https://activation.tracktech.quiktrak.eu/";
+API_URL.URL_UPGRADE = "https://activation.ignition.quiktrak.eu/";
 API_URL.REFERRAL_PROGRAM = "https://forms.quiktrak.com.au/referral-program/";
 //API_URL.URL_USER_GUIDE = "https://support.tracktech.quiktrak.eu/manual/app-manual.pdf";
-API_URL.URL_USER_GUIDE = "https://support.nutechgps.com/manual/app-manual.pdf";
+API_URL.URL_USER_GUIDE = "https://activation.ignition.quiktrak.eu/pdf/iss-app-manual.pdf";
 
 API_URL.GET_BALANCE = API_DOMIAN3 + "Balance";
 API_URL.EDIT_ACCOUNT = API_DOMIAN3 + "AccountEdit";
@@ -110,8 +110,8 @@ $$('#app').append(compiledTemplate());
 
 // Init App
 const app = new Framework7({
-    id: 'com.carcitywest.app',
-    name: 'Tracktech by NuTechGPS',
+    id: 'com.iss.app',
+    name: 'Ignition Security Systems',
     root: '#app',
     theme: Framework7.device.ios ? 'ios' : 'md',
     view: {
@@ -132,9 +132,9 @@ const app = new Framework7({
             maxPopupWidth = 300;
         }
         return {
-            logo: 'resources/images/logo.svg',
-            logoBlack: 'resources/images/logo.svg',
-            logoModal: 'resources/images/logo.svg',
+            logo: 'resources/images/logo.png',
+            logoBlack: 'resources/images/logo.png',
+            logoModal: 'resources/images/logo.png',
             MaxMapPopupWidth: maxPopupWidth,
             PolygonCustomization: {
                 color: '#AA5959',
@@ -178,13 +178,13 @@ const app = new Framework7({
                 },
             },
             AppDetails: {
-                name: 'Tracktech-app',
-                code: 42,
-                supportCode: 42,
+                name: 'ISS-app',
+                code: 9,
+                supportCode: 18,
                 appId: '',
                 appleId: '1530959422',
                 appVersion: '',
-                supportPhone: '16479370690',
+                supportPhone: '',
             },
             UTCOFFSET: moment().utcOffset(),
             AccountSolutionArray: [],
@@ -374,7 +374,7 @@ const app = new Framework7({
                 if (!localStorage.PUSH_DEVICE_TOKEN)
                     localStorage.PUSH_DEVICE_TOKEN = uid;
                 //localStorage.PUSH_DEVICE_TOKEN = "75ba1639-92ae-0c4c-d423-4fad1e48a49d"
-                localStorage.PUSH_APPID_ID = 'android.app.quiktrak.eu.tracktech';
+                localStorage.PUSH_APPID_ID = 'android.app.quiktrak.eu.iss';
                 localStorage.DEVICE_TYPE = self.device.ios ? 'iOS' : 'android';
             }
         },
