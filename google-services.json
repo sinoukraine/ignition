@@ -35,7 +35,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -71,7 +72,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -107,7 +109,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -143,7 +146,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -179,7 +183,45 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097482483564:android:fd0e7cafa8ed7cdc8d2549",
+        "android_client_info": {
+          "package_name": "com.iss.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097482483564-mt5mtgj811opr3rgev6si0ci7079rvsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhjlBAHlTG35_oOSom77Oci0LMJsgoEZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097482483564-mt5mtgj811opr3rgev6si0ci7079rvsd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -215,7 +257,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -251,7 +294,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -287,7 +331,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -323,7 +368,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -359,7 +405,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -395,7 +442,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -431,7 +479,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -467,7 +516,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -503,7 +553,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -539,7 +590,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -575,7 +627,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -611,7 +664,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -647,7 +701,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -683,7 +738,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -719,7 +775,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]
@@ -755,7 +812,8 @@
               "client_id": "1097482483564-q0k8c8cnm56dihui0tb5ijfqc0vngibo.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tracktechbynutechgps.app"
+                "bundle_id": "com.tracktechbynutechgps.app",
+                "app_store_id": "1530959422"
               }
             }
           ]

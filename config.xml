@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget 
-  version="1.0.1"
-  android-versionCode="2"
-  ios-CFBundleVersion="2"
-  id="com.tracktechbynutechgps.app"
+  version="1.0.0"
+  android-versionCode="1"
+  ios-CFBundleVersion="1"
+  id="com.iss.app"
   xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" defaultlocale="en-US" >
   <!-- id="com.quiktrak.plus" -->
-    <name>Tracktech by NuTechGPS</name>
+    <name>Ignition Security Systems</name>
     <description>
-       Tracktech by NuTechGPS tracker
+       Ignition Security Systems GPS tracker
     </description>
     <author email="support@sinopacific.co" href="http://sinopacific.co">
        Sinopacific Co Limited
