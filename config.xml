@@ -6,9 +6,9 @@
   id="com.ignitionsecuritysystems.app"
   xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" defaultlocale="en-US" >
   <!-- id="com.quiktrak.plus" -->
-    <name>Ignition Security Systems</name>
+    <name>ISS Track</name>
     <description>
-       Ignition Security Systems GPS tracker
+       ISS Track GPS tracker
     </description>
     <author email="support@sinopacific.co" href="http://sinopacific.co">
        Sinopacific Co Limited
