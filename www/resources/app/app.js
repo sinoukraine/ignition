@@ -111,7 +111,7 @@ $$('#app').append(compiledTemplate());
 // Init App
 const app = new Framework7({
     id: 'com.iss.app',
-    name: 'Ignition Security Systems',
+    name: 'ISS Track',
     root: '#app',
     theme: Framework7.device.ios ? 'ios' : 'md',
     view: {
@@ -178,11 +178,11 @@ const app = new Framework7({
                 },
             },
             AppDetails: {
-                name: 'ISS-app',
+                name: 'ISS-track-app',
                 code: 9,
                 supportCode: 18,
                 appId: '',
-                appleId: '1530959422',
+                appleId: '1534309927',
                 appVersion: '',
                 supportPhone: '',
             },
